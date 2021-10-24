@@ -4,7 +4,7 @@ TextViewForFullHtml是对原生TextView解析Html格式文本的增强。
 
 ## 原生TextView对Html的支持
 
-原生的TextView同样支持Html的显示，但是Develop Doc里面也写了，并不是支持所有的Html标签，例如，font的size，默认的Android系统只支持small、normal、big三种，但是不支持具体的字号，比如textsize=14这种。
+原生的TextView同样支持Html的显示，但是Develop Doc里面也写了，并不是支持所有的Html标签，例如，font的size，默认的Android系统只支持small、normal、big三种，但是不支持具体的字号，比如textsize=24这种。
 
 ## TextViewForFullHtml
 
@@ -12,7 +12,7 @@ TextViewForFullHtml这个库的目的在于在同一个TextView中给不同的�
 
 具体可以看示例图：
 
-![](https://github.com/xuyisheng/TextViewForFullHtml/blob/master/art/demo.png)
+link (https://github.com/xuyisheng/TextViewForFullHtml/blob/master/art/demo.png)
 
 ## 代码使用示例
 
